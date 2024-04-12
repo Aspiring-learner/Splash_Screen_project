@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="food_delivery_app">Food Delivery App</string>
+    <string name="logo">Logo</string>
+    <string name="get_information">Get Information</string>
+    <string name="enter_your_good_name">Enter your good name</string>
+    <string name="enter_your_id">Enter your ID</string>
+</resources>
